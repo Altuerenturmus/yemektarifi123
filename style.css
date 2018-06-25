@@ -2,11 +2,10 @@ body {
     font-family: sans-serif;
     color:black;
     font-size: 18px;
-    background-image:url,('https://img-fotki.yandex.ru/get/4914/39663434.42f/0_8f2fd_8aeda76e_orig.jpg');
+    background-image:url,('background.png');
     background-size: cover;
     width: 50%;
     margin:auto;
-    text-align: center;
 }
 
 h1{
@@ -15,4 +14,7 @@ h1{
 }
 img{
     border: dotted;
+    margin:auto;
+    width: 75%;
+    display: block;
 }
